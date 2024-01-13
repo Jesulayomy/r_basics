@@ -18,6 +18,7 @@ function MainApp() {
       <Text>Hello, World</Text>
       <Text style={styles.number}>{count}</Text>
       <CounterButton incrementCount={incrementCount} />
+      <ResetButton setCount={setCount} />
       <StatusBar style="auto" />
     </View>
   );
@@ -27,6 +28,19 @@ function CounterButton({ incrementCount }) {
   return (
     <TouchableOpacity onPress={incrementCount} style={styles.button}>
       <Text style={styles.buttonText}>Increment</Text>
+    </TouchableOpacity>
+  );
+}
+
+function ResetButton({ setCount }) {
+  return (
+    <TouchableOpacity
+      onPress={() => {
+        setCount(0);
+      }}
+      style={styles.button}
+    >
+      <Text style={styles.buttonText}>Reset</Text>
     </TouchableOpacity>
   );
 }
