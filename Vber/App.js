@@ -10,6 +10,7 @@ export default function App() {
     <View style={styles.container}>
       <StatusBar style="auto" />
       <Icon name="certificate" size={30} color="#900" />
+      <Icon name="user" size={50} color="#16161a" />
       <HomeScreen />
     </View>
     </>
