@@ -1,0 +1,427 @@
+{
+    "view": "ProductList",
+    "languages": {
+        "en": {
+            "text": "English",
+            "default": true
+        }
+    },
+    "activeLanguage": "en",
+    "products": [
+        {
+            "sku": "GE779SE5VKXCHNAFAMZ",
+            "name": "Electronic Measuring Spoon, Colour: White",
+            "displayName": "Electronic Measuring Spoon, Colour: White",
+            "brand": "Generic",
+            "sellerId": 445171,
+            "isShopGlobal": true,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "8076.00",
+                "price": "\u20a6 8,076",
+                "priceEuro": "4.56",
+                "taxEuro": "0.32",
+                "oldPrice": "\u20a6 11,136",
+                "oldPriceEuro": "6.29",
+                "discount": "27%",
+                "discountEuro": "1.73"
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/55/3753133/1.jpg?2298",
+            "tracking": {
+                "name": "Electronic Measuring Spoon, Colour: White"
+            },
+            "url": "/generic-electronic-measuring-spoon-colour-white-331357355.html"
+        },
+        {
+            "sku": "GE779SE600AEGNAFAMZ",
+            "name": "Personal Digital Transparent Durable Weighing Scale",
+            "displayName": "Personal Digital Transparent Durable Weighing Scale",
+            "brand": "Generic",
+            "sellerId": 317995,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "8990.00",
+                "price": "\u20a6 8,990",
+                "priceEuro": "5.08",
+                "taxEuro": "0.35",
+                "oldPrice": "\u20a6 16,500",
+                "oldPriceEuro": "9.32",
+                "discount": "46%",
+                "discountEuro": "4.24"
+            },
+            "tags": "MSTPRF",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/8105363/1.jpg?7942",
+            "tracking": {
+                "name": "Personal Digital Transparent Durable Weighing Scale"
+            },
+            "url": "/generic-personal-digital-transparent-durable-weighing-scale-363501826.html"
+        },
+        {
+            "sku": "PE057SE5DDR0XNAFAMZ",
+            "name": "See-Through Weighing Scale With Digital Display",
+            "displayName": "Personal Scale See-Through Weighing Scale With Digital Display",
+            "brand": "Personal Scale",
+            "sellerId": 262379,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "8500.00",
+                "price": "\u20a6 8,500",
+                "priceEuro": "4.80",
+                "taxEuro": "0.34",
+                "oldPrice": "\u20a6 10,000",
+                "oldPriceEuro": "5.65",
+                "discount": "15%",
+                "discountEuro": "0.85"
+            },
+            "tags": "CP_MT93|MSTPRF",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/8074413/1.jpg?3615",
+            "tracking": {
+                "name": "See-Through Weighing Scale With Digital Display"
+            },
+            "url": "/personal-scale-see-through-weighing-scale-with-digital-display-314470842.html"
+        },
+        {
+            "sku": "PE057SE4FF7MLNAFAMZ",
+            "name": "See-Through Weighing Scale With Digital Display",
+            "displayName": "Personal Scale See-Through Weighing Scale With Digital Display",
+            "brand": "Personal Scale",
+            "sellerId": 262379,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "8800.00",
+                "price": "\u20a6 8,800",
+                "priceEuro": "4.97",
+                "taxEuro": "0.35",
+                "oldPrice": "\u20a6 19,000",
+                "oldPriceEuro": "10.73",
+                "discount": "54%",
+                "discountEuro": "5.76"
+            },
+            "tags": "CP_MT93",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/7686692/1.jpg?6505",
+            "tracking": {
+                "name": "See-Through Weighing Scale With Digital Display"
+            },
+            "url": "/personal-scale-see-through-weighing-scale-with-digital-display-296686776.html"
+        },
+        {
+            "sku": "GE779SE4C6UA9NAFAMZ",
+            "name": "Digital Body Weight Scales USB Beauty Lose Weight Scale",
+            "displayName": "Digital Body Weight Scales USB Beauty Lose Weight Scale",
+            "brand": "Generic",
+            "sellerId": 383960,
+            "isShopExpress": true,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "8804.00",
+                "price": "\u20a6 8,804",
+                "priceEuro": "4.97",
+                "taxEuro": "0.35",
+                "oldPrice": "\u20a6 14,902",
+                "oldPriceEuro": "8.42",
+                "discount": "41%",
+                "discountEuro": "3.45"
+            },
+            "tags": "BLF|BLF_08|BLF_09|BLF_20|BLF_21|COL_320|COL_321|CP_MT102|CP_MT117|CP_MT15|CP_MT46|CP_MT71|CP_MT74|CP_MT88|DOW_253|INV_CLEAR|TBOOST",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/62/3392812/1.jpg?2142",
+            "tracking": {
+                "name": "Digital Body Weight Scales USB Beauty Lose Weight Scale"
+            },
+            "url": "/generic-digital-body-weight-scales-usb-beauty-lose-weight-scale-218293326.html"
+        },
+        {
+            "sku": "GE779SE6GOG6PNAFAMZ",
+            "name": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon",
+            "displayName": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon",
+            "brand": "Generic",
+            "sellerId": 445171,
+            "isShopGlobal": true,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "8829.00",
+                "price": "\u20a6 8,829",
+                "priceEuro": "4.99",
+                "taxEuro": "0.35",
+                "oldPrice": "\u20a6 12,150",
+                "oldPriceEuro": "6.86",
+                "discount": "27%",
+                "discountEuro": "1.88"
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/8116333/1.jpg?0701",
+            "tracking": {
+                "name": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon"
+            },
+            "url": "/generic-double-head-nine-speed-adjustable-kitchen-measuring-spoon-333611809.html"
+        },
+        {
+            "sku": "PE057SE42OZEFNAFAMZ",
+            "name": "See-Through Weighing Scale With Digital Display",
+            "displayName": "Personal Scale See-Through Weighing Scale With Digital Display",
+            "brand": "Personal Scale",
+            "sellerId": 262379,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "8900.00",
+                "price": "\u20a6 8,900",
+                "priceEuro": "5.03",
+                "taxEuro": "0.35",
+                "oldPrice": "\u20a6 10,000",
+                "oldPriceEuro": "5.65",
+                "discount": "11%",
+                "discountEuro": "0.62"
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/46/3895592/1.jpg?4949",
+            "tracking": {
+                "name": "See-Through Weighing Scale With Digital Display"
+            },
+            "url": "/personal-scale-see-through-weighing-scale-with-digital-display-295598364.html"
+        },
+        {
+            "sku": "PE057SE44R5IPNAFAMZ",
+            "name": "See-Through Weighing Scale With Digital Display",
+            "displayName": "Personal Scale See-Through Weighing Scale With Digital Display",
+            "brand": "Personal Scale",
+            "sellerId": 262379,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "8999.00",
+                "price": "\u20a6 8,999",
+                "priceEuro": "5.08",
+                "taxEuro": "0.35",
+                "oldPrice": "\u20a6 19,000",
+                "oldPriceEuro": "10.73",
+                "discount": "53%",
+                "discountEuro": "5.65"
+            },
+            "tags": "CP_MT102|CP_MT93",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/8500332/1.jpg?0769",
+            "tracking": {
+                "name": "See-Through Weighing Scale With Digital Display"
+            },
+            "url": "/personal-scale-see-through-weighing-scale-with-digital-display-233005894.html"
+        },
+        {
+            "sku": "GE779SE5Y0OGVNAFAMZ",
+            "name": "Bathroom Digital Personal Weighing Scale",
+            "displayName": "Bathroom Digital Personal Weighing Scale",
+            "brand": "Generic",
+            "sellerId": 121503,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales"
+            ],
+            "prices": {
+                "rawPrice": "8999.00",
+                "price": "\u20a6 8,999",
+                "priceEuro": "5.08",
+                "taxEuro": "0.35"
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/59/4695353/1.jpg?6824",
+            "tracking": {
+                "name": "Bathroom Digital Personal Weighing Scale"
+            },
+            "url": "/generic-bathroom-digital-personal-weighing-scale-353596495.html"
+        },
+        {
+            "sku": "PE057SE40F975NAFAMZ",
+            "name": "See-Through Weighing Scale With Digital Display",
+            "displayName": "Personal Scale See-Through Weighing Scale With Digital Display",
+            "brand": "Personal Scale",
+            "sellerId": 262379,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "9000.00",
+                "price": "\u20a6 9,000",
+                "priceEuro": "5.08",
+                "taxEuro": "0.35",
+                "oldPrice": "\u20a6 10,000",
+                "oldPriceEuro": "5.65",
+                "discount": "10%",
+                "discountEuro": "0.56"
+            },
+            "tags": "CP_MT102|CP_MT93|TBOOST",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/42/5764652/1.jpg?4810",
+            "tracking": {
+                "name": "See-Through Weighing Scale With Digital Display"
+            },
+            "url": "/personal-scale-see-through-weighing-scale-with-digital-display-256467524.html"
+        },
+        {
+            "sku": "GE779SE4FX5EKNAFAMZ",
+            "name": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon",
+            "displayName": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon",
+            "brand": "Generic",
+            "sellerId": 357223,
+            "isShopGlobal": true,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "9250.00",
+                "price": "\u20a6 9,250",
+                "priceEuro": "5.23",
+                "taxEuro": "0.36",
+                "oldPrice": "\u20a6 13,214",
+                "oldPriceEuro": "7.47",
+                "discount": "30%",
+                "discountEuro": "2.24"
+            },
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/68/6055962/1.jpg?4429",
+            "tracking": {
+                "name": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon"
+            },
+            "url": "/generic-double-head-nine-speed-adjustable-kitchen-measuring-spoon-269550686.html"
+        },
+        {
+            "sku": "GE779SE4OVEWPNAFAMZ",
+            "name": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon",
+            "displayName": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon",
+            "brand": "Generic",
+            "sellerId": 376961,
+            "isShopGlobal": true,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "9250.00",
+                "price": "\u20a6 9,250",
+                "priceEuro": "5.23",
+                "taxEuro": "0.36",
+                "oldPrice": "\u20a6 13,214",
+                "oldPriceEuro": "7.47",
+                "discount": "30%",
+                "discountEuro": "2.24"
+            },
+            "tags": "CP_MT46",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/6411452/1.jpg?1449",
+            "tracking": {
+                "name": "Double-Head Nine-Speed Adjustable Kitchen Measuring Spoon"
+            },
+            "url": "/generic-double-head-nine-speed-adjustable-kitchen-measuring-spoon-254114638.html"
+        },
+        {
+            "sku": "PE057SE31HRR1NAFAMZ",
+            "name": "See-Through Weighing Scale With Digital Display",
+            "displayName": "Personal Scale See-Through Weighing Scale With Digital Display",
+            "brand": "Personal Scale",
+            "sellerId": 262379,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "9300.00",
+                "price": "\u20a6 9,300",
+                "priceEuro": "5.25",
+                "taxEuro": "0.37",
+                "oldPrice": "\u20a6 14,000",
+                "oldPriceEuro": "7.91",
+                "discount": "34%",
+                "discountEuro": "2.66"
+            },
+            "tags": "CP_MT102",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/83/9072611/1.jpg?2510",
+            "tracking": {
+                "name": "See-Through Weighing Scale With Digital Display"
+            },
+            "url": "/personal-scale-see-through-weighing-scale-with-digital-display-116270938.html"
+        },
+        {
+            "sku": "PE057SE44WPO1NAFAMZ",
+            "name": "Weighing Scale With Digital Display",
+            "displayName": "Personal Scale Weighing Scale With Digital Display",
+            "brand": "Personal Scale",
+            "sellerId": 262379,
+            "categories": [
+                "Health \u0026 Beauty",
+                "Medical Supplies \u0026 Equipment",
+                "Health Monitors",
+                "Body Weight Scales",
+                "Digital"
+            ],
+            "prices": {
+                "rawPrice": "9300.00",
+                "price": "\u20a6 9,300",
+                "priceEuro": "5.25",
+                "taxEuro": "0.37",
+                "oldPrice": "\u20a6 10,000",
+                "oldPriceEuro": "5.65",
+                "discount": "7%",
+                "discountEuro": "0.40"
+            },
+            "tags": "CP_MT102",
+            "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/50/1094252/1.jpg?6381",
+            "tracking": {
+                "name": "Weighing Scale With Digital Display"
+            },
+            "url": "/personal-scale-weighing-scale-with-digital-display-252490105.html"
+        }
+    ]
+}
