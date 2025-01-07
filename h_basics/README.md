@@ -1,0 +1,22 @@
+Handled Tags
+- H1
+- H2
+- p
+- a
+- ol
+- ul
+- li
+- img
+- span
+- pre !!
+- br
+- hr
+- em
+- strong
+- div
+- section
+- article
+- aside
+- header
+- footer
+- checkbox
